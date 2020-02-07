@@ -17,7 +17,7 @@ type: page
 
 曾就职于华为上海研究所，10+年无线通信系统开发、测试、解决方案工作经验，主要兴趣集中在无线通信协议栈的开发，3GPP的研究，精通嵌入式开发，熟练掌握C/C++，Java，Python等语言。
 
-热爱工作，钻研专业知识，广泛涉猎AI领域，熟悉Python爬虫技术，熟悉数据库知识，了解oracle，mysql，sql server各种数据库软件，熟悉数据库设计如power designer等。
+热爱工作，喜欢钻研专业知识，广泛涉猎AI领域，熟悉Python爬虫技术，熟悉数据库知识，了解oracle，mysql，sql server各种数据库软件，熟悉数据库设计如power designer等。
 
 很喜欢李宗盛《山丘》中的歌词：越过山丘 才发现无人等候。
 
@@ -34,12 +34,6 @@ type: page
 
 * GitHub：[wang-hongchao](https://github.com/wang-hongchao)
 * email：wang-hongchao126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/wang-hongchao)
-* [Facebook](https://www.facebook.com/wang-hongchao.water)
-* [Twitter](https://twitter.com/wang-hongchao126)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/Hongchaoaiyinyue/)
 
 ## 关于本站
 
