@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "CentOS7定时任务详解"
+title:  "Linux常用命令记录"
 categories: linux
-tags:  centos7 crontab linux 工具软件  
-author: SnakeSon
+tags: linux 命令 工具软件  
+author: Hongchao
 ---
 
 * content
@@ -12,23 +12,13 @@ author: SnakeSon
 
 ## 前言
 
-工作中需要开启一个定时任务：每天晚上2点进行爬虫代码的运行，这不得不去学习一下linux 下的定时任务crontab
+工作中经常用到一些Linux命令，有时在网络上搜索使用后就忘记了，这里将常用的命令记录一下。
 
-##  crontab
+##  经常使用的Linux命令
 
 
-yum install crontabs
-
-说明：
-/sbin/service crond start //启动服务
-/sbin/service crond stop //关闭服务
-/sbin/service crond restart //重启服务
-/sbin/service crond reload //重新载入配置
-查看crontab服务状态：service crond status
-手动启动crontab服务：service crond start
-查看crontab服务是否已设置为开机启动，执行命令：ntsysv
-加入开机自动启动:
-chkconfig crond on
+1、grep -rin "字符串"
+说明：在当前文件夹及包含的子文件夹中搜索指定字符。
 
 
 

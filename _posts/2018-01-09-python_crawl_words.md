@@ -35,7 +35,7 @@ author: SnakeSon
 
 ## 框架使用说明
 
-**News_scrapy_redis4. [github地址](https://github.com/xudailong/News_scrapy_redis.git)**
+**News_scrapy_redis4. [github地址](https://github.com/wang-hongchao/News_scrapy_redis.git)**
 
 1. `News_scrapy_redis` 基于`scrapy_redis`实现数据的增量爬取（含去重），支持分布式，支持异常日志等输出，功能模块化。
 
