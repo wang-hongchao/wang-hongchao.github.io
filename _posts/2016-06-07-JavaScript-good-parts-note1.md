@@ -128,16 +128,16 @@ JavaScript 包含一种原型链的特性，允许对象继承另一个对象的
 var empty_object = {}
 
 var stooge = {
-    firstName: 'Haoyang',
-    lastName: 'Gao'
+    firstName: 'Hongchao',
+    lastName: 'Wang'
 }
 ```
 
 ### 检索
 
 ```js
-console.log(stooge.firstName); // Haoyang
-console.log(stooge['firstName']); // Haoyang
+console.log(stooge.firstName); // Hongchao
+console.log(stooge['firstName']); // Hongchao
 ```
 
 不存在的属性返回`undefined`。
@@ -145,7 +145,7 @@ console.log(stooge['firstName']); // Haoyang
 使用`||`来填充默认值。
 
 ```js
-console.log(stooge.firstName || 'Joe'); // Haoyang
+console.log(stooge.firstName || 'Joe'); // Hongchao
 console.log(stooge.age || 25); // 25
 ```
 
@@ -283,7 +283,7 @@ var add = function(a, b) {
 
 实参和形参个数不匹配时，不会有运行时错误。实参过多时，超出的实参被忽略。形参过多时，缺失的值被替换为`undefined`。
 
-下面的内容也可以参考我以前的博文 [JavaScript 中的 this](http://gaohaoyang.github.io/2015/06/12/JavaScript-this/)
+下面的内容也可以参考我以前的博文 [JavaScript 中的 this](http://wang-hongchao.github.io/2015/06/12/JavaScript-this/)
 
 #### 方法调用模式
 
@@ -562,7 +562,7 @@ console.log(numberCal.tribble(7)) //21
 
 柯里化允许我们把函数与传递给它的参数相结合，产生出一个新的函数。
 
-详情见以前的博文 [JavaScript 函数 -bind 与 currying](http://gaohaoyang.github.io/2015/06/11/JavaScript-function/#bind--currying)。
+详情见以前的博文 [JavaScript 函数 -bind 与 currying](http://wang-hongchao.github.io/2015/06/11/JavaScript-function/#bind--currying)。
 
 ### 记忆
 
