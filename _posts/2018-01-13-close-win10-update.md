@@ -20,7 +20,7 @@ author: Calvin
 
 1 放一张照片测试一下   也可用键盘的win+R     
 
-![图片.png](https://upload-images.jianshu.io/upload_images/21299031-4f72c059e9005dda.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+![图片.png](https://upload-images.jianshu.io/upload_images/21299031-4f72c059e9005dda.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 2 在运行处输入 “services.msc”   点击确定。
 
