@@ -33,7 +33,7 @@ type: page
 ## 联系我
 
 * GitHub：[wang-hongchao](https://github.com/wang-hongchao)
-* email：wang-hongchao126@126.com
+* email：wang.hongchao@foxmail.com
 
 ## 关于本站
 
